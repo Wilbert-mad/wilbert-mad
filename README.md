@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilbert-mad&layout=compact)](https://github.com/Wilbert-mad/)
 
 <div style="text-align: center;">
-  As of now, I working on <a href="https://github.com/viperlight/Twitch.tvjs">Twitch.tvjs<\a> an Interface with the twitch api.
+  As of now, I working on  <a href="https://github.com/viperlight/Twitch.tvjs">Twitch.tvjs</a> an Interface with the twitch api.
   And on some of my free time I will work on many random projects, some projects will be for Kei mostly private.
   and I will maybe uplode my school projects from time to time.
 </div>
